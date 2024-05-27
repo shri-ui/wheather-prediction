@@ -1,1 +1,1 @@
-# wheather-pridiction
+# wheather-prediction
